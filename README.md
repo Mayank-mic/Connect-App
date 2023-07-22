@@ -1,3 +1,4 @@
+## Connect - A Messaging App 
 
 ![alt img](https://github.com/Mayank-mic/Connect-App/blob/main/Screenshot%202023-07-22%20at%2010.04.14%20PM.png)
 ![alt img](https://github.com/Mayank-mic/Connect-App/blob/main/Screenshot%202023-07-22%20at%2010.05.17%20PM.png)
